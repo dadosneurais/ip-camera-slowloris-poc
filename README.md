@@ -42,7 +42,7 @@ The mobile application (iCSee) was mirrored using scrcpy to observe the impact i
 3. Impact Verification:
    3.1. Accessing the camera via the iCSee mobile application fails for both Record mode (SD Card playback) and Cloud storage mode.
    3.2. Local video recording and picture storage to both the SD card and cloud storage cease entirely.
-![](/img/icsee.png)
+<img src="/img/icsee.jpeg" width="50%">
 
 ⚠️ This PoC is intended for educational and authorized testing only.
 
