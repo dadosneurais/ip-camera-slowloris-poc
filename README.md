@@ -1,4 +1,4 @@
-CVE-2026-88294 - Xiongmai Technology IP Camera Firmware (X3-WQ-B / iCSee) / Denial of Service (DoS) via a slowloris attack.
+## CVE-2026-88294 - Xiongmai Technology IP Camera Firmware (X3-WQ-B / iCSee) / Denial of Service (DoS) via a slowloris attack.
 
 ### Proof of Concept – Slowloris Vulnerability in IP Camera
 ![](/img/camera.png)<br>
